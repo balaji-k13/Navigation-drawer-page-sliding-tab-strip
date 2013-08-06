@@ -1,12 +1,12 @@
 # Android Navigation Drawer with Page (Pager) Sliding tab Strip
 
-This sample showcases a similar navigation used in google music app
+This sample is the result of integration of latest navigation drawer(v4 lib) and similar tab strip which is used in google play music app. (https://play.google.com/store/apps/details?id=com.google.android.music)
 
-Please check out apk which is in root folder 
+Please check out apk which is in root folder of the project , below is the Screenshot
 
 
-<a href="http://i.imgur.com/lJDOCot.png" alt="Screenshot">
-  <img src="http://i.imgur.com/lJDOCot.png">
+<a href="http://i.imgur.com/TRzIca6.png" alt="Screenshot">
+  <img src="http://i.imgur.com/TRzIca6.png">
 </a>
 
 
