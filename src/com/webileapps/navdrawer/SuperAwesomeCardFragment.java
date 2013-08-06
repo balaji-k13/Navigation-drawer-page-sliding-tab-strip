@@ -27,7 +27,6 @@ import android.widget.FrameLayout.LayoutParams;
 import android.widget.TextView;
 
 import com.actionbarsherlock.app.SherlockFragment;
-import com.astuetz.viewpager.extensions.sample.R;
 
 public class SuperAwesomeCardFragment extends SherlockFragment{
 

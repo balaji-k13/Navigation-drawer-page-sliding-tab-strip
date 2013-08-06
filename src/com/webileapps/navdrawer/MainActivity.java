@@ -27,7 +27,6 @@ import android.widget.ListView;
 
 import com.actionbarsherlock.app.SherlockFragment;
 import com.actionbarsherlock.app.SherlockFragmentActivity;
-import com.astuetz.viewpager.extensions.sample.R;
 
 public class MainActivity extends SherlockFragmentActivity {
 	DrawerLayout mDrawerLayout;

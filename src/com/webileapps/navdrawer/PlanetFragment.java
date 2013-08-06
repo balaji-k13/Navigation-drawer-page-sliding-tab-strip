@@ -9,7 +9,6 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 
 import com.actionbarsherlock.app.SherlockFragment;
-import com.astuetz.viewpager.extensions.sample.R;
 
 public class PlanetFragment extends SherlockFragment {
 	public static final String ARG_PLANET_NUMBER = "planet_number";

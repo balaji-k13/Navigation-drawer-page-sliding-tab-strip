@@ -2,7 +2,6 @@ package com.webileapps.navdrawer;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.view.LayoutInflater;
@@ -11,7 +10,6 @@ import android.view.ViewGroup;
 
 import com.actionbarsherlock.app.SherlockFragment;
 import com.astuetz.viewpager.extensions.PagerSlidingTabStrip;
-import com.astuetz.viewpager.extensions.sample.R;
 
 public class PageSlidingTabStripFragment extends Fragment {
 
