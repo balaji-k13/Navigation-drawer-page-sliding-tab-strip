@@ -22,7 +22,7 @@ This sample uses many great open-source libraries from the Android dev community
 
 #Steps to compile the project in eclipse
 
-* Add the PagerSlidingTabStrip and ActionBarSherlock() as library projects
+* Add the PagerSlidingTabStrip and ActionBarSherlock as library projects
 * Replace the v4 library in ActionBarSherlock with the latest one
 * Clean and compile
 
