@@ -5,6 +5,7 @@ buildscript {
     
     dependencies {
         classpath 'com.android.tools.build:gradle:0.10.+'
+        classpath 'com.jakewharton.sdkmanager:gradle-plugin:0.10.+'
     }
 }
 
@@ -14,16 +15,18 @@ allprojects {
     }
 }
 
+apply plugin: 'android-sdk-manager'
 apply plugin: 'android'
 
 dependencies {
+    compile 'com.android.support:support-v4:19.1.0'
     compile 'com.astuetz:pagerslidingtabstrip:1.0.1'
     compile 'com.actionbarsherlock:actionbarsherlock:4.4.0@aar'
 }
 
 android {
     compileSdkVersion 19
-    buildToolsVersion "19.0.3"
+    buildToolsVersion "19.1.0"
 
     defaultConfig {
         minSdkVersion 8
